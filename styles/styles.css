@@ -1,0 +1,31 @@
+h1,
+h2{
+    text-align: center;
+    font-family: "Lucida Console", Courier, monospace;
+}
+h1{
+    background-color: rgb(163, 163, 228);
+}
+
+h2{
+    background-color: rgb(88, 175, 135);
+}
+
+.recipeimg,
+.bannerimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.recipeimg{
+  
+  width: 50%;
+}
+
+.bannerimg{
+
+    width: 100%;
+}
+
+
+
